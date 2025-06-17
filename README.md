@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available in [my github account](https://github.com/Rishwanth738)
 
-- 📫 How to reach me **rishwanth.j2023@vitstudent.ac.in**
+- 📫 How to reach me **rishwanth738@gmail.com**
 
 - 📄 Know about my experiences in my [resume](https://drive.google.com/file/d/1d2tIm0E-FLYrovejbBWSNC_MdXX34S9W/view?usp=drive_link)
 
