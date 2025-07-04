@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/richumsd07" target="blank"><img src="https://img.shields.io/twitter/follow/richumsd07?logo=twitter&style=for-the-badge" alt="richumsd07" /></a> </p>
 
-- 🔭 I’m currently working on [Hope Line](https://github.com/Rishwanth738/HopeLine---Suicide-Prevention-Hotline-app)
+- 🔭 I’m currently working as an Intern at Zoho
 
-- 🌱 I’m currently learning **Backend frameworks,Dart and NLP**
+- 🌱 I’m currently learning **Node.js, GANs and NLP**
 
 - 👨‍💻 All of my projects are available in [my github account](https://github.com/Rishwanth738)
 
@@ -20,7 +20,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/richumsd07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="richumsd07" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/rishwanth-j" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishwanth-j" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/rishwanth-j-9516a328a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishwanth-j" height="30" width="40" /></a>
 <a href="https://kaggle.com/rishwanthj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="rishwanthj" height="30" width="40" /></a>
 </p>
 
