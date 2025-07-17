@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rishwanth J</h1>
-<h3 align="center">Into Data Science, AI, Web Dev & anything cool with code !</h3>
+<h3 align="center">Into Data Science, AI, Web Dev & anything cool with code!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishwanth738&label=Profile%20views&color=0e75b6&style=flat" alt="rishwanth738" /> </p>
 
@@ -13,9 +13,9 @@
 
 -  How to reach me **rishwanth738@gmail.com**
 
-- 📄 Know about my experiences in my [resume](https://drive.google.com/file/d/1d2tIm0E-FLYrovejbBWSNC_MdXX34S9W/view?usp=drive_link)
+- Know about my experiences in my [resume](https://drive.google.com/file/d/1d2tIm0E-FLYrovejbBWSNC_MdXX34S9W/view?usp=drive_link)
 
-- ⚡ Fun fact **I love cricket 🏏**
+- Fun fact **I love cricket**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
