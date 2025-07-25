@@ -13,7 +13,7 @@
 
 -  How to reach me **rishwanth738@gmail.com**
 
-- Know about my experiences in my [resume](https://drive.google.com/file/d/1d2tIm0E-FLYrovejbBWSNC_MdXX34S9W/view?usp=drive_link)
+- Know about my experiences in my [resume]([https://drive.google.com/file/d/1d2tIm0E-FLYrovejbBWSNC_MdXX34S9W/view?usp=drive_link](https://drive.google.com/file/d/19_xnXX4DQh-3vl8y3aht6vXqTFXaujLW/view?usp=drive_link))
 
 - Fun fact **I love cricket**
 
